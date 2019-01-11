@@ -1,0 +1,26 @@
+---
+name: Variables y Tipos de datos
+locale: es
+type: learning
+beta: false
+teacher_info: "* Funciones y Tipos de Datos, revisado\n  \n¡Hola! Quizás no te diste
+  cuenta, pero ya tenés las bases de la programación: ya sabés declarar funciones
+  y procedimientos, usar variables, tomar decisiones \n\n  - no hay un tablero, pero
+  igual podemos hacer muchas cosas!\n\n   * Functions, declaración\n    > \n   * Functions,
+  uso\n   * Tipos de datos, introduccion\n   * Booleanos\n   * ¡Más cuentas!\n   *
+  Tirando los dados\n   * ¿Y que tal si...?"
+language: javascript
+id_format: "%05d"
+order:
+- 18
+- 19
+- 20
+- 29
+- 25
+- 28
+- 22
+- 23
+- 24
+- 26
+- 27
+private: false

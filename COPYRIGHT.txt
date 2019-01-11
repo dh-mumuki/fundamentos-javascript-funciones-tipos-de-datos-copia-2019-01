@@ -1,0 +1,5 @@
+Copyright Andrés Furlan, Franco Leonardo Bulgarelli, Jesús Lombardo and contributors
+
+This content consists of voluntary contributions made by many
+individuals. For exact contribution history, see its revision history
+available at https://github.com/dh-mumuki/fundamentos-javascript-funciones-tipos-de-datos-copia-2019-01 and the AUTHORS.txt file.
